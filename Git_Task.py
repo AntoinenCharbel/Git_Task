@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-print ("this is version 0.9");
+print ("this is version 1.0");
 =======
 print ("Antoine's second commit");
 >>>>>>> feature2
